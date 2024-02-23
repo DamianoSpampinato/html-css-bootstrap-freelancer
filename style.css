@@ -9,3 +9,7 @@ section:nth-child(even){
 .hero img{
     max-height: 200px;
 }
+
+.portfolio img{
+    width: 100%;
+}
