@@ -11,11 +11,11 @@ section{
     padding-bottom: 1.25rem;
 }
 
-.hero img{
+#hero img{
     max-height: 200px;
 }
 
-.portfolio img{
+#portfolio img{
     width: 100%;
 }
 
@@ -28,4 +28,29 @@ form input{
 }
 #floatingTextarea.ms-textarea{
     height:10rem ;
+}
+
+.ms-input{
+    border: none;
+    border-bottom: .125rem;
+    border-color: grey;
+}
+
+footer{
+    background-color: #3a546d;
+}
+
+footer a{
+    height: 3.125rem;
+    width: 3.125rem;
+    display: inline-block;
+    line-height: 3.125rem;
+    color: #fff;
+}
+.footer-color{
+    color: #1abc9c;
+}
+
+#footer-copy{
+    background-color: #2c3e50;
 }
