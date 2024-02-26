@@ -18,3 +18,14 @@ section{
 .portfolio img{
     width: 100%;
 }
+
+form input{
+    border: none;
+    border-bottom: 1px solid grey;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+#floatingTextarea.ms-textarea{
+    height:10rem ;
+}
