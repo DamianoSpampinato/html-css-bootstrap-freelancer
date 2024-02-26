@@ -68,3 +68,13 @@ footer a{
 .img-container:hover i{
     display: flex;
 }
+.hr{
+    width: 10rem;
+    height: .1875rem;
+    background-color: black;
+    border-radius: 30px;
+    align-self: center;
+}
+.star{
+    display: inline-block;
+}
