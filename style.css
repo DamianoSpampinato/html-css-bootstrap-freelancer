@@ -6,6 +6,11 @@ section:nth-child(even){
     background-color: #1abc9c;
 }
 
+section{
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
 .hero img{
     max-height: 200px;
 }
